@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### Who is me?
+I'm once of Cornosoft member working on sale and manager. weare doing software development full operatation and full support service.
+
+### My Growth
+Since 13 years old. I had got into C# first time with Unity 3D. I would love to create my own game from my dream. So, that is the start of my developer life. i had create ball simple rolling ball game following Unity tutorial. FOr 3 year later jump into high school Sci-Math. I start create website and get the job as freelancer to provide website created using Dreamweaver. That time i work on HTML as well.
+
 <!--
 **whatfor2000/whatfor2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
