@@ -1,17 +1,21 @@
 ## Hi there 👋
 
 ### Who is me?
-I'm once of Cornosoft member working on sale and manager. weare doing software development full operatation and full support service.
+I'm AI consumer who apply many tricks to use AI agents efficiently.
 
 ### My Growth
-Since 13 years old. I had got into C# first time with Unity 3D. I would love to create my own game from my dream. So, that is the start of my developer life. i had create ball simple rolling ball game following Unity tutorial. FOr 3 year later jump into high school Sci-Math. I start create website and get the job as freelancer to provide website created using Dreamweaver. That time i work on HTML as well.
+C# > C > Python > HTML,CSS,JS
 
+I’m currently working on Game Development.
+I’m looking to collaborate on Game Artist.
+
+![My contribution universe](./dist/cosmos.svg)
 <!--
 **whatfor2000/whatfor2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
