@@ -1,0 +1,57 @@
+name: Update Commit Cosmos
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 23 * * *' # Approximately 06:17 Bangkok; scheduled runs may be delayed.
+
+permissions:
+  contents: write
+concurrency:
+  group: commit-cosmos
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      COSMOS_USERNAME: whatfor2000 # Change this to YOUR GitHub username.
+      COSMOS_METRIC: commits # Or contributions (includes PRs, reviews and issues).
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate real activity (never falls back to demo)
+        env:
+          GH_TOKEN: ${{ secrets.COSMOS_TOKEN || github.token }}
+        run: python scripts/generate.py --username "$COSMOS_USERNAME" --metric "$COSMOS_METRIC"
+      - name: Save updated banner and explorer
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add dist/data.json dist/cosmos.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: update Commit Cosmos activity'
+            git push
+          fi
+      - name: Upload optional Pages explorer
+        if: vars.COSMOS_PAGES == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    if: vars.COSMOS_PAGES == 'true'
+    needs: render
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy explorer
+        id: deployment
+        uses: actions/deploy-pages@v4

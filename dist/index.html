@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Commit Cosmos — Your activity, in orbit</title>
+<meta name="description" content="A solar system made from your GitHub contributions. More commits, closer to the sun.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header><a class="brand" href="./"><span class="brand-icon">✳</span> CORNOSOFT <span class="brand-divider">/</span> LABS</a><div class="header-right"><span class="status-dot"></span> A DIFFERENT PERSPECTIVE <button id="guideButton" class="text-button">Setup guide ↗</button></div></header>
+<main>
+<section class="intro"><div><p class="eyebrow">GITHUB ACTIVITY EXPLORER · 001</p><h1>Your work.<br>A whole <em>universe.</em></h1><p class="subtitle">Every day, a planet. Every commit, a little closer to the sun.</p></div><div class="intro-aside"><span class="orbit-mark">◉</span><p>Small steps.<br>Extraordinary orbits.</p></div></section>
+<section class="workspace" aria-label="Contribution solar system">
+<div class="universe-panel">
+<div class="panel-top"><div><span class="eyebrow">COMMIT COSMOS</span><div class="identity" id="identity">Loading universe…</div></div><span id="sourceBadge" class="badge">LOADING</span></div>
+<div class="canvas-wrap"><canvas id="space" tabindex="0" aria-label="Three-dimensional contribution solar system. Drag to rotate, scroll to zoom. Use arrow keys to select days and plus or minus to zoom."></canvas><div class="canvas-tip">DRAG TO ROTATE <span>·</span> SCROLL TO ZOOM</div><div id="hover" class="tooltip" hidden></div><div id="empty" class="empty" hidden>No activity in this period.<br><small>Your next commit starts the story.</small></div></div>
+<div class="universe-bottom"><span>OUTER ORBIT <small>LESS</small></span><div class="scale"></div><span><small>MORE</small> INNER ORBIT</span></div>
+<div class="toolbar"><div><button id="pause" aria-pressed="false">Ⅱ Pause</button><button id="reset">↺ Reset view</button></div><div><button id="zoomOut" aria-label="Zoom out">−</button><button id="zoomIn" aria-label="Zoom in">+</button><button id="export">Export PNG ↗</button></div></div>
+</div>
+<aside>
+<div class="section-label">YOUR ORBIT, BY THE NUMBERS</div>
+<div class="total"><span id="total">—</span><p id="metricLabel">commits in the last year</p></div>
+<div class="stat-row"><div><strong id="active">—</strong><span>ACTIVE DAYS</span></div><div><strong id="peak">—</strong><span>DAILY PEAK</span></div></div>
+<div class="rule"></div>
+<div class="section-label">PLANET INSPECTOR <span class="tiny-dot"></span></div>
+<label class="sr-only" for="daySelect">Choose a contribution day</label><select id="daySelect"></select>
+<div class="selected-count"><span id="selectedCount">—</span> <span id="selectedMetric">commits</span></div>
+<div class="inspector-note" id="selectedOrbit">Select a planet to explore its activity.</div>
+<div class="day-nav"><button id="previous" aria-label="Previous day">← Previous day</button><button id="next" aria-label="Next day">Next day →</button></div>
+<div class="rule"></div>
+<p class="section-label">MAKE THIS UNIVERSE YOURS</p><p class="aside-copy" id="dataNote">Loading contribution data.</p>
+<label class="primary-button" for="importFile">Import your data <span>↗</span></label><input id="importFile" type="file" accept="application/json,.json" hidden>
+<a class="secondary-button" id="svgLink" href="cosmos.svg" download="cosmos.svg">Download profile banner ↓</a>
+<p class="error" id="error" role="alert" hidden></p>
+</aside>
+</section>
+<section class="footnotes"><p><span>01 /</span> MORE WORK, MORE GRAVITY<br><small>Higher daily counts sit closer to the center.</small></p><p><span>02 /</span> A YEAR IN ONE SYSTEM<br><small>Each planet is a day. Quiet days form the dust belt.</small></p><p><span>03 /</span> MADE FOR YOUR PROFILE<br><small>Embed the SVG. Link to the interactive universe.</small></p></section>
+</main>
+<footer><span>COMMIT COSMOS <span class="footer-dot">•</span> A CORNOSOFT EXPERIMENT</span><span id="dateRange">ONE YEAR. COUNTLESS POSSIBILITIES.</span></footer>
+<dialog id="guide"><div class="dialog-head"><p class="eyebrow">QUICK START</p><button id="closeGuide" aria-label="Close guide">✕</button></div><h2>Put your work in orbit.</h2><ol><li>Unzip the project package and copy its files, including <code>.github/workflows</code>, into your GitHub profile repository.</li><li>In the included workflow, set <code>COSMOS_USERNAME</code> to your GitHub username.</li><li>Open <b>Actions → Update Commit Cosmos → Run workflow</b>. The workflow generates real daily data and your SVG.</li><li>Embed <code>dist/cosmos.svg</code> in your profile README. For the public explorer, set <b>Pages → Source → GitHub Actions</b>, add repository variable <code>COSMOS_PAGES=true</code>, then rerun the workflow.</li></ol><p>Full instructions, token troubleshooting, and the exact README snippet are in the included README. Import the generated <code>dist/data.json</code> here to preview real data. Counts follow GitHub contribution rules.</p><p class="dialog-note">This hosted preview starts with clearly labeled sample data. Your GitHub workflow supplies the real activity. No token is entered in this browser.</p><button id="doneGuide" class="primary-button">Got it →</button></dialog>
+<script type="module" src="app.js"></script>
+</body></html>

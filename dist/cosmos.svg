@@ -1,0 +1,732 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760" role="img" aria-labelledby="title desc">
+<title id="title">Commit Cosmos — whatfor2000</title><desc id="desc">DEMO DATA. 1615 commits, 228 active days. Each planet is one day; higher activity is closer to the sun. 2025-10-21 to 2026-10-20.</desc>
+<defs>
+<radialGradient id="bg"><stop stop-color="#102738"/><stop offset="1" stop-color="#050910"/></radialGradient>
+<radialGradient id="sun"><stop stop-color="#fffbd1"/><stop offset=".6" stop-color="#ffc95c"/><stop offset="1" stop-color="#e97c28"/></radialGradient>
+<radialGradient id="halo"><stop stop-color="#f5ac42" stop-opacity=".33"/><stop offset="1" stop-color="#f5ac42" stop-opacity="0"/></radialGradient>
+<radialGradient id="cyan" cx="30%" cy="25%" r="78%"><stop stop-color="#e5ffff"/><stop offset=".28" stop-color="#68e6ef"/><stop offset=".65" stop-color="#14798e"/><stop offset="1" stop-color="#052330"/></radialGradient>
+<radialGradient id="gold" cx="30%" cy="25%" r="78%"><stop stop-color="#fffbc4"/><stop offset=".3" stop-color="#ffd57a"/><stop offset=".7" stop-color="#ad6f29"/><stop offset="1" stop-color="#33221a"/></radialGradient>
+<radialGradient id="blue" cx="30%" cy="25%" r="78%"><stop stop-color="#afd6f2"/><stop offset=".4" stop-color="#3b708d"/><stop offset="1" stop-color="#102333"/></radialGradient>
+</defs>
+<rect x="1" y="1" width="1278" height="758" rx="22" fill="url(#bg)" stroke="#183242"/>
+<g fill="#c6edff">
+<circle cx="253" cy="155" r="0.82" opacity="0.16"/>
+<circle cx="310" cy="234" r="0.77" opacity="0.37"/>
+<circle cx="203" cy="562" r="0.32" opacity="0.11"/>
+<circle cx="501" cy="647" r="0.72" opacity="0.26"/>
+<circle cx="1141" cy="559" r="0.45" opacity="0.27"/>
+<circle cx="38" cy="293" r="0.79" opacity="0.19"/>
+<circle cx="343" cy="350" r="0.97" opacity="0.19"/>
+<circle cx="214" cy="519" r="0.37" opacity="0.35"/>
+<circle cx="566" cy="174" r="0.81" opacity="0.25"/>
+<circle cx="800" cy="210" r="0.69" opacity="0.35"/>
+<circle cx="765" cy="326" r="0.79" opacity="0.09"/>
+<circle cx="491" cy="426" r="0.99" opacity="0.35"/>
+<circle cx="231" cy="519" r="0.49" opacity="0.28"/>
+<circle cx="772" cy="296" r="0.56" opacity="0.15"/>
+<circle cx="571" cy="203" r="0.73" opacity="0.13"/>
+<circle cx="526" cy="297" r="0.62" opacity="0.17"/>
+<circle cx="1165" cy="354" r="0.78" opacity="0.35"/>
+<circle cx="139" cy="364" r="0.88" opacity="0.34"/>
+<circle cx="846" cy="404" r="0.35" opacity="0.37"/>
+<circle cx="1186" cy="452" r="0.45" opacity="0.24"/>
+<circle cx="964" cy="276" r="0.49" opacity="0.16"/>
+<circle cx="1174" cy="399" r="0.82" opacity="0.22"/>
+<circle cx="1220" cy="538" r="0.55" opacity="0.40"/>
+<circle cx="308" cy="635" r="0.36" opacity="0.10"/>
+<circle cx="249" cy="286" r="0.74" opacity="0.33"/>
+<circle cx="889" cy="195" r="0.57" opacity="0.27"/>
+<circle cx="983" cy="387" r="0.98" opacity="0.36"/>
+<circle cx="48" cy="247" r="0.78" opacity="0.25"/>
+<circle cx="571" cy="478" r="0.38" opacity="0.22"/>
+<circle cx="954" cy="133" r="0.97" opacity="0.36"/>
+<circle cx="564" cy="642" r="0.83" opacity="0.24"/>
+<circle cx="242" cy="435" r="0.89" opacity="0.24"/>
+<circle cx="432" cy="286" r="0.56" opacity="0.13"/>
+<circle cx="1111" cy="130" r="0.72" opacity="0.24"/>
+<circle cx="254" cy="501" r="0.92" opacity="0.35"/>
+<circle cx="654" cy="375" r="0.34" opacity="0.36"/>
+<circle cx="186" cy="217" r="0.81" opacity="0.34"/>
+<circle cx="1115" cy="258" r="0.39" opacity="0.23"/>
+<circle cx="1150" cy="299" r="0.49" opacity="0.36"/>
+<circle cx="891" cy="346" r="0.95" opacity="0.32"/>
+<circle cx="436" cy="449" r="0.58" opacity="0.29"/>
+<circle cx="789" cy="578" r="0.93" opacity="0.22"/>
+<circle cx="532" cy="360" r="0.34" opacity="0.09"/>
+<circle cx="1159" cy="365" r="0.71" opacity="0.08"/>
+<circle cx="145" cy="364" r="0.35" opacity="0.09"/>
+<circle cx="701" cy="202" r="0.66" opacity="0.17"/>
+<circle cx="1019" cy="349" r="0.68" opacity="0.31"/>
+<circle cx="1194" cy="614" r="0.47" opacity="0.23"/>
+<circle cx="858" cy="324" r="0.37" opacity="0.29"/>
+<circle cx="750" cy="563" r="0.59" opacity="0.36"/>
+<circle cx="135" cy="230" r="0.34" opacity="0.31"/>
+<circle cx="248" cy="384" r="0.43" opacity="0.25"/>
+<circle cx="312" cy="562" r="0.43" opacity="0.23"/>
+<circle cx="179" cy="583" r="0.87" opacity="0.35"/>
+<circle cx="225" cy="181" r="0.76" opacity="0.25"/>
+<circle cx="55" cy="225" r="0.95" opacity="0.35"/>
+<circle cx="365" cy="546" r="0.64" opacity="0.15"/>
+<circle cx="846" cy="190" r="0.42" opacity="0.08"/>
+<circle cx="824" cy="401" r="0.95" opacity="0.33"/>
+<circle cx="609" cy="563" r="0.79" opacity="0.31"/>
+<circle cx="1163" cy="628" r="0.41" opacity="0.17"/>
+<circle cx="144" cy="192" r="0.82" opacity="0.10"/>
+<circle cx="1221" cy="618" r="0.65" opacity="0.35"/>
+<circle cx="347" cy="188" r="0.97" opacity="0.11"/>
+<circle cx="405" cy="200" r="0.72" opacity="0.30"/>
+<circle cx="506" cy="543" r="0.38" opacity="0.36"/>
+<circle cx="529" cy="170" r="0.73" opacity="0.21"/>
+<circle cx="1220" cy="453" r="0.95" opacity="0.15"/>
+<circle cx="668" cy="374" r="0.49" opacity="0.12"/>
+<circle cx="639" cy="598" r="0.52" opacity="0.32"/>
+<circle cx="173" cy="139" r="0.62" opacity="0.40"/>
+<circle cx="229" cy="205" r="0.68" opacity="0.24"/>
+<circle cx="296" cy="487" r="0.92" opacity="0.36"/>
+<circle cx="781" cy="421" r="0.41" opacity="0.35"/>
+<circle cx="644" cy="138" r="0.77" opacity="0.26"/>
+<circle cx="237" cy="267" r="0.49" opacity="0.36"/>
+<circle cx="1158" cy="289" r="0.49" opacity="0.27"/>
+<circle cx="727" cy="338" r="0.78" opacity="0.35"/>
+<circle cx="1060" cy="630" r="0.48" opacity="0.37"/>
+<circle cx="129" cy="224" r="0.74" opacity="0.35"/>
+<circle cx="115" cy="133" r="0.53" opacity="0.12"/>
+<circle cx="561" cy="295" r="0.82" opacity="0.26"/>
+<circle cx="900" cy="139" r="0.38" opacity="0.38"/>
+<circle cx="330" cy="166" r="0.88" opacity="0.27"/>
+<circle cx="328" cy="570" r="0.39" opacity="0.18"/>
+<circle cx="106" cy="496" r="0.45" opacity="0.16"/>
+<circle cx="235" cy="492" r="0.85" opacity="0.36"/>
+<circle cx="857" cy="288" r="0.95" opacity="0.16"/>
+<circle cx="357" cy="311" r="0.92" opacity="0.09"/>
+<circle cx="705" cy="551" r="0.86" opacity="0.36"/>
+<circle cx="533" cy="403" r="0.41" opacity="0.30"/>
+<circle cx="808" cy="169" r="0.90" opacity="0.15"/>
+<circle cx="967" cy="488" r="0.51" opacity="0.33"/>
+<circle cx="491" cy="358" r="0.32" opacity="0.14"/>
+<circle cx="697" cy="415" r="0.91" opacity="0.39"/>
+<circle cx="596" cy="489" r="0.75" opacity="0.21"/>
+<circle cx="1123" cy="469" r="0.96" opacity="0.12"/>
+<circle cx="559" cy="312" r="0.71" opacity="0.39"/>
+<circle cx="103" cy="241" r="0.72" opacity="0.19"/>
+<circle cx="667" cy="576" r="0.72" opacity="0.24"/>
+<circle cx="813" cy="324" r="0.48" opacity="0.31"/>
+<circle cx="28" cy="331" r="0.55" opacity="0.10"/>
+<circle cx="701" cy="451" r="0.76" opacity="0.12"/>
+<circle cx="640" cy="649" r="0.52" opacity="0.21"/>
+<circle cx="849" cy="432" r="0.69" opacity="0.14"/>
+<circle cx="801" cy="308" r="0.73" opacity="0.18"/>
+<circle cx="1147" cy="130" r="0.51" opacity="0.15"/>
+<circle cx="1212" cy="459" r="0.63" opacity="0.22"/>
+<circle cx="462" cy="614" r="0.86" opacity="0.39"/>
+<circle cx="372" cy="216" r="0.50" opacity="0.29"/>
+<circle cx="711" cy="225" r="0.87" opacity="0.32"/>
+<circle cx="660" cy="360" r="0.86" opacity="0.13"/>
+<circle cx="119" cy="380" r="0.99" opacity="0.28"/>
+<circle cx="174" cy="596" r="0.59" opacity="0.28"/>
+<circle cx="423" cy="523" r="0.65" opacity="0.16"/>
+<circle cx="36" cy="239" r="0.84" opacity="0.15"/>
+<circle cx="1085" cy="605" r="0.34" opacity="0.16"/>
+<circle cx="273" cy="597" r="0.39" opacity="0.23"/>
+<circle cx="1112" cy="454" r="0.97" opacity="0.37"/>
+<circle cx="1058" cy="566" r="0.88" opacity="0.26"/>
+<circle cx="350" cy="616" r="0.62" opacity="0.32"/>
+<circle cx="592" cy="626" r="0.74" opacity="0.17"/>
+<circle cx="183" cy="422" r="0.46" opacity="0.19"/>
+<circle cx="1131" cy="212" r="0.40" opacity="0.15"/>
+<circle cx="337" cy="349" r="0.34" opacity="0.21"/>
+<circle cx="1136" cy="607" r="0.59" opacity="0.15"/>
+<circle cx="885" cy="528" r="0.93" opacity="0.27"/>
+<circle cx="65" cy="519" r="0.63" opacity="0.38"/>
+<circle cx="636" cy="529" r="0.90" opacity="0.39"/>
+<circle cx="883" cy="355" r="0.64" opacity="0.17"/>
+<circle cx="1019" cy="159" r="0.57" opacity="0.29"/>
+<circle cx="853" cy="299" r="0.89" opacity="0.37"/>
+<circle cx="1118" cy="157" r="0.93" opacity="0.27"/>
+<circle cx="80" cy="215" r="0.75" opacity="0.12"/>
+<circle cx="970" cy="316" r="0.34" opacity="0.20"/>
+<circle cx="458" cy="595" r="0.53" opacity="0.32"/>
+<circle cx="801" cy="414" r="0.83" opacity="0.35"/>
+<circle cx="541" cy="213" r="0.63" opacity="0.32"/>
+<circle cx="131" cy="488" r="0.46" opacity="0.10"/>
+<circle cx="107" cy="161" r="0.96" opacity="0.14"/>
+<circle cx="66" cy="286" r="0.47" opacity="0.23"/>
+<circle cx="259" cy="353" r="0.63" opacity="0.16"/>
+<circle cx="780" cy="301" r="0.72" opacity="0.39"/>
+<circle cx="259" cy="297" r="0.98" opacity="0.11"/>
+<circle cx="77" cy="449" r="0.70" opacity="0.37"/>
+<circle cx="793" cy="536" r="0.96" opacity="0.14"/>
+<circle cx="1237" cy="378" r="0.37" opacity="0.33"/>
+<circle cx="272" cy="172" r="0.54" opacity="0.22"/>
+<circle cx="783" cy="200" r="0.65" opacity="0.19"/>
+<circle cx="885" cy="631" r="0.37" opacity="0.39"/>
+<circle cx="966" cy="286" r="0.60" opacity="0.31"/>
+<circle cx="578" cy="625" r="0.63" opacity="0.34"/>
+<circle cx="1238" cy="404" r="0.53" opacity="0.16"/>
+<circle cx="202" cy="415" r="0.92" opacity="0.16"/>
+<circle cx="976" cy="518" r="0.54" opacity="0.24"/>
+<circle cx="690" cy="316" r="0.64" opacity="0.19"/>
+<circle cx="554" cy="478" r="0.50" opacity="0.27"/>
+<circle cx="590" cy="140" r="0.66" opacity="0.14"/>
+<circle cx="519" cy="546" r="0.64" opacity="0.32"/>
+<circle cx="1000" cy="632" r="0.61" opacity="0.09"/>
+<circle cx="627" cy="356" r="0.58" opacity="0.16"/>
+<circle cx="1216" cy="507" r="0.63" opacity="0.25"/>
+<circle cx="896" cy="468" r="0.55" opacity="0.23"/>
+<circle cx="652" cy="387" r="0.46" opacity="0.31"/>
+<circle cx="671" cy="252" r="0.82" opacity="0.38"/>
+<circle cx="404" cy="326" r="0.45" opacity="0.23"/>
+<circle cx="1232" cy="419" r="0.99" opacity="0.35"/>
+<circle cx="631" cy="362" r="0.55" opacity="0.18"/>
+<circle cx="1118" cy="259" r="0.49" opacity="0.39"/>
+<circle cx="1158" cy="429" r="0.79" opacity="0.12"/>
+<circle cx="1030" cy="235" r="0.91" opacity="0.26"/>
+<circle cx="986" cy="620" r="0.61" opacity="0.14"/>
+<circle cx="130" cy="388" r="0.96" opacity="0.23"/>
+<circle cx="158" cy="540" r="0.64" opacity="0.26"/>
+<circle cx="134" cy="285" r="0.40" opacity="0.26"/>
+<circle cx="647" cy="217" r="1.00" opacity="0.12"/>
+<circle cx="877" cy="361" r="0.84" opacity="0.20"/>
+<circle cx="931" cy="434" r="0.90" opacity="0.40"/>
+<circle cx="650" cy="191" r="0.73" opacity="0.32"/>
+<circle cx="450" cy="346" r="0.49" opacity="0.11"/>
+<circle cx="516" cy="307" r="0.69" opacity="0.13"/>
+<circle cx="861" cy="591" r="0.78" opacity="0.23"/>
+<circle cx="91" cy="367" r="0.50" opacity="0.17"/>
+<circle cx="954" cy="202" r="0.78" opacity="0.38"/>
+<circle cx="1232" cy="332" r="0.60" opacity="0.25"/>
+<circle cx="330" cy="402" r="0.88" opacity="0.10"/>
+<circle cx="364" cy="444" r="0.72" opacity="0.34"/>
+<circle cx="616" cy="579" r="0.39" opacity="0.30"/>
+<circle cx="849" cy="408" r="0.65" opacity="0.24"/>
+<circle cx="189" cy="170" r="0.92" opacity="0.32"/>
+<circle cx="537" cy="156" r="0.36" opacity="0.39"/>
+<circle cx="1203" cy="151" r="1.00" opacity="0.30"/>
+<circle cx="576" cy="171" r="0.83" opacity="0.14"/>
+<circle cx="1087" cy="582" r="0.94" opacity="0.14"/>
+<circle cx="1223" cy="576" r="0.74" opacity="0.24"/>
+<circle cx="211" cy="611" r="0.54" opacity="0.19"/>
+<circle cx="239" cy="294" r="0.53" opacity="0.30"/>
+<circle cx="615" cy="540" r="0.87" opacity="0.26"/>
+<circle cx="956" cy="220" r="0.52" opacity="0.18"/>
+<circle cx="852" cy="131" r="0.76" opacity="0.25"/>
+<circle cx="871" cy="185" r="0.43" opacity="0.20"/>
+<circle cx="1045" cy="582" r="0.83" opacity="0.15"/>
+<circle cx="1149" cy="264" r="0.95" opacity="0.22"/>
+<circle cx="1017" cy="254" r="0.32" opacity="0.28"/>
+<circle cx="515" cy="292" r="0.52" opacity="0.08"/>
+<circle cx="860" cy="225" r="0.46" opacity="0.35"/>
+<circle cx="257" cy="602" r="0.96" opacity="0.29"/>
+<circle cx="340" cy="640" r="0.95" opacity="0.17"/>
+<circle cx="584" cy="555" r="0.88" opacity="0.39"/>
+<circle cx="524" cy="597" r="0.69" opacity="0.20"/>
+<circle cx="1065" cy="269" r="0.90" opacity="0.17"/>
+<circle cx="874" cy="478" r="0.95" opacity="0.24"/>
+<circle cx="30" cy="419" r="0.81" opacity="0.35"/>
+<circle cx="1212" cy="631" r="0.91" opacity="0.22"/>
+<circle cx="1016" cy="483" r="0.53" opacity="0.32"/>
+<circle cx="797" cy="596" r="0.95" opacity="0.36"/>
+<circle cx="514" cy="522" r="0.46" opacity="0.33"/>
+<circle cx="114" cy="455" r="0.82" opacity="0.31"/>
+<circle cx="805" cy="525" r="0.99" opacity="0.33"/>
+<circle cx="336" cy="637" r="0.98" opacity="0.12"/>
+<circle cx="1233" cy="469" r="0.91" opacity="0.36"/>
+<circle cx="926" cy="232" r="0.67" opacity="0.23"/>
+<circle cx="320" cy="549" r="0.91" opacity="0.39"/>
+<circle cx="178" cy="610" r="0.85" opacity="0.16"/>
+<circle cx="839" cy="212" r="0.90" opacity="0.35"/>
+<circle cx="1117" cy="519" r="0.97" opacity="0.28"/>
+<circle cx="1024" cy="166" r="0.73" opacity="0.16"/>
+<circle cx="613" cy="362" r="0.82" opacity="0.22"/>
+<circle cx="226" cy="232" r="0.61" opacity="0.30"/>
+<circle cx="84" cy="177" r="0.53" opacity="0.10"/>
+<circle cx="759" cy="513" r="0.60" opacity="0.16"/>
+<circle cx="868" cy="314" r="0.42" opacity="0.11"/>
+<circle cx="808" cy="376" r="0.65" opacity="0.27"/>
+<circle cx="500" cy="602" r="0.75" opacity="0.23"/>
+<circle cx="44" cy="606" r="0.93" opacity="0.30"/>
+<circle cx="348" cy="205" r="0.61" opacity="0.19"/>
+<circle cx="1228" cy="436" r="0.75" opacity="0.22"/>
+<circle cx="537" cy="597" r="0.89" opacity="0.14"/>
+<circle cx="812" cy="624" r="0.37" opacity="0.20"/>
+<circle cx="760" cy="432" r="0.99" opacity="0.17"/>
+<circle cx="835" cy="411" r="0.31" opacity="0.36"/>
+<circle cx="125" cy="638" r="0.88" opacity="0.37"/>
+<circle cx="496" cy="490" r="0.45" opacity="0.14"/>
+<circle cx="538" cy="270" r="0.74" opacity="0.37"/>
+<circle cx="105" cy="446" r="0.85" opacity="0.09"/>
+<circle cx="772" cy="264" r="0.36" opacity="0.17"/>
+<circle cx="875" cy="309" r="0.44" opacity="0.33"/>
+<circle cx="774" cy="643" r="0.94" opacity="0.35"/>
+<circle cx="551" cy="623" r="0.98" opacity="0.17"/>
+<circle cx="718" cy="247" r="0.63" opacity="0.10"/>
+<circle cx="487" cy="536" r="0.98" opacity="0.34"/>
+<circle cx="774" cy="222" r="0.85" opacity="0.08"/>
+<circle cx="1123" cy="256" r="0.62" opacity="0.30"/>
+<circle cx="561" cy="520" r="0.88" opacity="0.38"/>
+<circle cx="246" cy="369" r="0.63" opacity="0.28"/>
+<circle cx="1174" cy="465" r="0.94" opacity="0.15"/>
+<circle cx="154" cy="605" r="0.94" opacity="0.18"/>
+<circle cx="861" cy="249" r="0.40" opacity="0.38"/>
+<circle cx="648" cy="634" r="0.38" opacity="0.16"/>
+<circle cx="1125" cy="268" r="0.57" opacity="0.20"/>
+<circle cx="1131" cy="559" r="0.71" opacity="0.31"/>
+<circle cx="874" cy="231" r="0.88" opacity="0.28"/>
+<circle cx="597" cy="163" r="0.78" opacity="0.15"/>
+<circle cx="935" cy="371" r="0.90" opacity="0.11"/>
+<circle cx="777" cy="497" r="0.34" opacity="0.17"/>
+<circle cx="275" cy="595" r="0.36" opacity="0.15"/>
+<circle cx="1247" cy="151" r="0.34" opacity="0.19"/>
+<circle cx="282" cy="340" r="0.35" opacity="0.32"/>
+<circle cx="449" cy="351" r="0.87" opacity="0.15"/>
+<circle cx="327" cy="132" r="0.49" opacity="0.39"/>
+<circle cx="291" cy="386" r="0.86" opacity="0.12"/>
+<circle cx="77" cy="264" r="0.31" opacity="0.33"/>
+<circle cx="512" cy="461" r="0.31" opacity="0.16"/>
+<circle cx="284" cy="561" r="0.67" opacity="0.32"/>
+<circle cx="1000" cy="589" r="0.84" opacity="0.24"/>
+<circle cx="248" cy="592" r="0.65" opacity="0.38"/>
+<circle cx="113" cy="438" r="0.62" opacity="0.39"/>
+<circle cx="149" cy="620" r="0.89" opacity="0.22"/>
+<circle cx="246" cy="632" r="0.80" opacity="0.22"/>
+<circle cx="190" cy="459" r="0.73" opacity="0.10"/>
+<circle cx="588" cy="462" r="0.57" opacity="0.27"/>
+<circle cx="628" cy="594" r="0.65" opacity="0.22"/>
+<circle cx="259" cy="350" r="0.60" opacity="0.36"/>
+<circle cx="872" cy="477" r="0.88" opacity="0.21"/>
+<circle cx="219" cy="450" r="0.60" opacity="0.29"/>
+<circle cx="791" cy="286" r="0.78" opacity="0.23"/>
+<circle cx="211" cy="217" r="0.37" opacity="0.11"/>
+<circle cx="788" cy="263" r="0.69" opacity="0.27"/>
+<circle cx="1175" cy="467" r="0.77" opacity="0.21"/>
+<circle cx="891" cy="182" r="0.98" opacity="0.27"/>
+<circle cx="745" cy="236" r="0.70" opacity="0.15"/>
+<circle cx="1012" cy="359" r="0.89" opacity="0.19"/>
+<circle cx="1164" cy="506" r="0.38" opacity="0.17"/>
+<circle cx="488" cy="569" r="0.89" opacity="0.39"/>
+<circle cx="1165" cy="156" r="0.73" opacity="0.29"/>
+<circle cx="572" cy="159" r="0.43" opacity="0.30"/>
+<circle cx="657" cy="477" r="0.55" opacity="0.14"/>
+<circle cx="318" cy="540" r="0.35" opacity="0.32"/>
+<circle cx="87" cy="223" r="0.82" opacity="0.15"/>
+<circle cx="884" cy="594" r="0.54" opacity="0.20"/>
+<circle cx="689" cy="216" r="0.92" opacity="0.13"/>
+<circle cx="126" cy="213" r="0.49" opacity="0.29"/>
+<circle cx="1019" cy="582" r="0.59" opacity="0.15"/>
+<circle cx="1074" cy="246" r="0.54" opacity="0.12"/>
+<circle cx="1239" cy="628" r="0.67" opacity="0.18"/>
+<circle cx="476" cy="534" r="0.99" opacity="0.10"/>
+<circle cx="443" cy="438" r="0.96" opacity="0.33"/>
+<circle cx="548" cy="426" r="0.53" opacity="0.08"/>
+<circle cx="906" cy="309" r="0.39" opacity="0.25"/>
+<circle cx="496" cy="642" r="0.69" opacity="0.29"/>
+<circle cx="750" cy="203" r="0.58" opacity="0.32"/>
+<circle cx="918" cy="149" r="0.62" opacity="0.10"/>
+<circle cx="666" cy="569" r="0.70" opacity="0.31"/>
+<circle cx="880" cy="426" r="0.38" opacity="0.09"/>
+<circle cx="690" cy="305" r="0.86" opacity="0.28"/>
+<circle cx="766" cy="220" r="0.61" opacity="0.11"/>
+<circle cx="917" cy="540" r="0.67" opacity="0.21"/>
+<circle cx="660" cy="477" r="0.46" opacity="0.33"/>
+<circle cx="181" cy="246" r="0.67" opacity="0.14"/>
+<circle cx="740" cy="489" r="0.81" opacity="0.34"/>
+<circle cx="327" cy="371" r="0.37" opacity="0.16"/>
+<circle cx="380" cy="286" r="0.83" opacity="0.29"/>
+<circle cx="387" cy="635" r="0.62" opacity="0.26"/>
+<circle cx="1211" cy="589" r="0.78" opacity="0.36"/>
+<circle cx="686" cy="453" r="0.41" opacity="0.10"/>
+<circle cx="930" cy="440" r="0.86" opacity="0.27"/>
+<circle cx="745" cy="649" r="0.35" opacity="0.23"/>
+<circle cx="102" cy="188" r="0.56" opacity="0.17"/>
+<circle cx="209" cy="649" r="0.57" opacity="0.27"/>
+<circle cx="109" cy="590" r="0.94" opacity="0.26"/>
+</g><g fill="none" stroke="#397387" stroke-opacity=".25">
+<ellipse cx="640" cy="394" rx="100" ry="43.0"/>
+<ellipse cx="640" cy="394" rx="150" ry="64.5"/>
+<ellipse cx="640" cy="394" rx="200" ry="86.0"/>
+<ellipse cx="640" cy="394" rx="250" ry="107.5"/>
+<ellipse cx="640" cy="394" rx="300" ry="129.0"/>
+<ellipse cx="640" cy="394" rx="350" ry="150.5"/>
+<ellipse cx="640" cy="394" rx="400" ry="172.0"/>
+<ellipse cx="640" cy="394" rx="450" ry="193.5"/>
+<ellipse cx="640" cy="394" rx="500" ry="215.0"/>
+<ellipse cx="640" cy="394" rx="550" ry="236.5"/>
+</g><circle cx="640" cy="394" r="135" fill="url(#halo)"/>
+<circle cx="639.71" cy="174.06" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-09-12: 0 commits</title></circle>
+<circle cx="646.49" cy="226.56" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-09-13: 2 commits</title></circle>
+<circle cx="630.91" cy="174.09" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-09-11: 0 commits</title></circle>
+<circle cx="657.32" cy="174.18" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-09-14: 0 commits</title></circle>
+<circle cx="622.11" cy="174.19" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-09-10: 0 commits</title></circle>
+<circle cx="647.86" cy="327.91" r="5.59" fill="url(#gold)" opacity="1"><title>2026-09-15: 24 commits</title></circle>
+<circle cx="629.73" cy="309.51" r="5.07" fill="url(#cyan)" opacity="1"><title>2026-09-09: 16 commits</title></circle>
+<circle cx="657.45" cy="284.31" r="4.34" fill="url(#cyan)" opacity="1"><title>2026-09-16: 9 commits</title></circle>
+<circle cx="628.68" cy="324.01" r="5.48" fill="url(#gold)" opacity="1"><title>2026-09-08: 22 commits</title></circle>
+<circle cx="662.84" cy="279.44" r="4.20" fill="url(#cyan)" opacity="1"><title>2026-09-17: 8 commits</title></circle>
+<circle cx="614.45" cy="267.49" r="3.86" fill="url(#cyan)" opacity="1"><title>2026-09-07: 6 commits</title></circle>
+<circle cx="660.18" cy="309.84" r="5.07" fill="url(#cyan)" opacity="1"><title>2026-09-18: 16 commits</title></circle>
+<circle cx="618.16" cy="303.91" r="4.90" fill="url(#cyan)" opacity="1"><title>2026-09-06: 14 commits</title></circle>
+<circle cx="701.20" cy="175.64" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-09-19: 0 commits</title></circle>
+<circle cx="592.97" cy="227.76" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-09-05: 2 commits</title></circle>
+<circle cx="666.90" cy="310.19" r="5.07" fill="url(#cyan)" opacity="1"><title>2026-09-20: 16 commits</title></circle>
+<circle cx="586.32" cy="228.13" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-09-04: 2 commits</title></circle>
+<circle cx="718.65" cy="176.67" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-09-21: 0 commits</title></circle>
+<circle cx="608.49" cy="307.56" r="4.98" fill="url(#cyan)" opacity="1"><title>2026-09-03: 15 commits</title></circle>
+<circle cx="727.34" cy="177.28" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-09-22: 0 commits</title></circle>
+<circle cx="552.10" cy="177.33" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-09-02: 0 commits</title></circle>
+<circle cx="687.99" cy="286.00" r="4.34" fill="url(#cyan)" opacity="1"><title>2026-09-23: 9 commits</title></circle>
+<circle cx="597.23" cy="298.34" r="4.70" fill="url(#cyan)" opacity="1"><title>2026-09-01: 12 commits</title></circle>
+<circle cx="744.63" cy="178.71" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-09-24: 0 commits</title></circle>
+<circle cx="534.81" cy="178.76" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-08-31: 0 commits</title></circle>
+<circle cx="683.56" cy="311.50" r="5.07" fill="url(#cyan)" opacity="1"><title>2026-09-25: 16 commits</title></circle>
+<circle cx="577.60" cy="276.41" r="4.04" fill="url(#cyan)" opacity="1"><title>2026-08-30: 7 commits</title></circle>
+<circle cx="761.80" cy="180.38" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-09-26: 0 commits</title></circle>
+<circle cx="554.48" cy="244.74" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-08-29: 3 commits</title></circle>
+<circle cx="715.25" cy="271.20" r="3.86" fill="url(#cyan)" opacity="1"><title>2026-09-27: 6 commits</title></circle>
+<circle cx="579.75" cy="296.13" r="4.59" fill="url(#cyan)" opacity="1"><title>2026-08-28: 11 commits</title></circle>
+<circle cx="691.68" cy="315.20" r="5.14" fill="url(#cyan)" opacity="1"><title>2026-09-28: 17 commits</title></circle>
+<circle cx="521.60" cy="214.24" r="2.15" fill="url(#blue)" opacity="1"><title>2026-08-27: 1 commits</title></circle>
+<circle cx="787.29" cy="183.37" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-09-29: 0 commits</title></circle>
+<circle cx="492.17" cy="183.44" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-08-26: 0 commits</title></circle>
+<circle cx="795.70" cy="184.49" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-09-30: 0 commits</title></circle>
+<circle cx="483.76" cy="184.57" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-08-25: 0 commits</title></circle>
+<circle cx="740.21" cy="266.75" r="3.65" fill="url(#cyan)" opacity="1"><title>2026-10-01: 5 commits</title></circle>
+<circle cx="567.10" cy="301.77" r="4.70" fill="url(#cyan)" opacity="1"><title>2026-08-24: 12 commits</title></circle>
+<circle cx="812.37" cy="186.92" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-10-02: 0 commits</title></circle>
+<circle cx="467.09" cy="187.00" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-08-23: 0 commits</title></circle>
+<circle cx="766.25" cy="250.18" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-10-03: 3 commits</title></circle>
+<circle cx="458.83" cy="188.31" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-08-22: 0 commits</title></circle>
+<circle cx="683.02" cy="347.44" r="6.05" fill="url(#gold)" opacity="1"><title>2026-10-04: 34 commits</title></circle>
+<circle cx="556.12" cy="303.51" r="4.70" fill="url(#cyan)" opacity="1"><title>2026-08-21: 12 commits</title></circle>
+<circle cx="807.35" cy="221.58" r="2.15" fill="url(#blue)" opacity="1"><title>2026-10-05: 1 commits</title></circle>
+<circle cx="536.74" cy="287.94" r="4.20" fill="url(#cyan)" opacity="1"><title>2026-08-20: 8 commits</title></circle>
+<circle cx="713.94" cy="321.37" r="5.22" fill="url(#cyan)" opacity="1"><title>2026-10-06: 18 commits</title></circle>
+<circle cx="434.38" cy="192.61" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-08-19: 0 commits</title></circle>
+<circle cx="778.63" cy="263.95" r="3.40" fill="url(#cyan)" opacity="1"><title>2026-10-07: 4 commits</title></circle>
+<circle cx="426.35" cy="194.16" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-08-18: 0 commits</title></circle>
+<circle cx="861.11" cy="195.67" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-10-08: 0 commits</title></circle>
+<circle cx="418.38" cy="195.77" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-08-17: 0 commits</title></circle>
+<circle cx="869.01" cy="197.33" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-10-09: 0 commits</title></circle>
+<circle cx="479.58" cy="256.62" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-08-16: 3 commits</title></circle>
+<circle cx="758.40" cy="296.55" r="4.34" fill="url(#cyan)" opacity="1"><title>2026-10-10: 9 commits</title></circle>
+<circle cx="402.64" cy="199.17" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-08-15: 0 commits</title></circle>
+<circle cx="884.62" cy="200.84" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-10-11: 0 commits</title></circle>
+<circle cx="394.88" cy="200.96" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-08-14: 0 commits</title></circle>
+<circle cx="794.13" cy="277.13" r="3.65" fill="url(#cyan)" opacity="1"><title>2026-10-12: 5 commits</title></circle>
+<circle cx="518.85" cy="302.38" r="4.47" fill="url(#cyan)" opacity="1"><title>2026-08-13: 10 commits</title></circle>
+<circle cx="821.67" cy="261.61" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-10-13: 3 commits</title></circle>
+<circle cx="379.57" cy="204.70" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-08-12: 0 commits</title></circle>
+<circle cx="773.71" cy="300.28" r="4.34" fill="url(#cyan)" opacity="1"><title>2026-10-14: 9 commits</title></circle>
+<circle cx="435.97" cy="251.36" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-08-11: 2 commits</title></circle>
+<circle cx="766.56" cy="308.63" r="4.59" fill="url(#cyan)" opacity="1"><title>2026-10-15: 11 commits</title></circle>
+<circle cx="460.85" cy="273.45" r="3.40" fill="url(#cyan)" opacity="1"><title>2026-08-10: 4 commits</title></circle>
+<circle cx="879.83" cy="238.21" r="2.15" fill="url(#blue)" opacity="1"><title>2026-10-16: 1 commits</title></circle>
+<circle cx="519.29" cy="315.78" r="4.80" fill="url(#cyan)" opacity="1"><title>2026-08-09: 13 commits</title></circle>
+<circle cx="886.03" cy="240.00" r="2.15" fill="url(#blue)" opacity="1"><title>2026-10-17: 1 commits</title></circle>
+<circle cx="349.90" cy="212.85" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-08-08: 0 commits</title></circle>
+<circle cx="811.39" cy="290.58" r="3.86" fill="url(#cyan)" opacity="1"><title>2026-10-18: 6 commits</title></circle>
+<circle cx="342.69" cy="215.03" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-08-07: 0 commits</title></circle>
+<circle cx="852.45" cy="270.37" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-10-19: 3 commits</title></circle>
+<circle cx="454.04" cy="286.04" r="3.65" fill="url(#cyan)" opacity="1"><title>2026-08-06: 5 commits</title></circle>
+<circle cx="876.80" cy="261.05" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-10-20: 2 commits</title></circle>
+<circle cx="402.86" cy="261.16" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-08-05: 2 commits</title></circle>
+<circle cx="834.22" cy="288.76" r="3.65" fill="url(#cyan)" opacity="1"><title>2025-10-21: 5 commits</title></circle>
+<circle cx="321.60" cy="221.86" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-08-04: 0 commits</title></circle>
+<circle cx="773.76" cy="324.03" r="4.90" fill="url(#cyan)" opacity="1"><title>2025-10-22: 14 commits</title></circle>
+<circle cx="452.22" cy="295.99" r="3.86" fill="url(#cyan)" opacity="1"><title>2026-08-03: 6 commits</title></circle>
+<circle cx="971.56" cy="226.52" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-10-23: 0 commits</title></circle>
+<circle cx="308.01" cy="226.68" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-08-02: 0 commits</title></circle>
+<circle cx="816.81" cy="307.74" r="4.20" fill="url(#cyan)" opacity="1"><title>2025-10-24: 8 commits</title></circle>
+<circle cx="352.34" cy="253.98" r="2.15" fill="url(#blue)" opacity="1"><title>2026-08-01: 1 commits</title></circle>
+<circle cx="984.77" cy="231.53" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-10-25: 0 commits</title></circle>
+<circle cx="547.27" cy="350.40" r="5.80" fill="url(#gold)" opacity="1"><title>2026-07-31: 28 commits</title></circle>
+<circle cx="938.35" cy="258.17" r="2.15" fill="url(#blue)" opacity="1"><title>2025-10-26: 1 commits</title></circle>
+<circle cx="288.37" cy="234.27" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-07-30: 0 commits</title></circle>
+<circle cx="997.57" cy="236.73" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-10-27: 0 commits</title></circle>
+<circle cx="282.02" cy="236.90" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-07-29: 0 commits</title></circle>
+<circle cx="830.19" cy="313.18" r="4.20" fill="url(#cyan)" opacity="1"><title>2025-10-28: 8 commits</title></circle>
+<circle cx="275.79" cy="239.57" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-07-28: 0 commits</title></circle>
+<circle cx="1009.95" cy="242.11" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-10-29: 0 commits</title></circle>
+<circle cx="269.66" cy="242.29" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-07-27: 0 commits</title></circle>
+<circle cx="1015.97" cy="244.87" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-10-30: 0 commits</title></circle>
+<circle cx="479.36" cy="330.43" r="4.80" fill="url(#cyan)" opacity="1"><title>2026-07-26: 13 commits</title></circle>
+<circle cx="1021.89" cy="247.68" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-10-31: 0 commits</title></circle>
+<circle cx="406.50" cy="304.73" r="3.65" fill="url(#cyan)" opacity="1"><title>2026-07-25: 5 commits</title></circle>
+<circle cx="789.12" cy="338.81" r="5.07" fill="url(#cyan)" opacity="1"><title>2025-11-01: 16 commits</title></circle>
+<circle cx="387.59" cy="300.80" r="3.40" fill="url(#cyan)" opacity="1"><title>2026-07-24: 4 commits</title></circle>
+<circle cx="807.90" cy="334.00" r="4.80" fill="url(#cyan)" opacity="1"><title>2025-11-02: 13 commits</title></circle>
+<circle cx="477.85" cy="336.18" r="4.90" fill="url(#cyan)" opacity="1"><title>2026-07-23: 14 commits</title></circle>
+<circle cx="1038.94" cy="256.35" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-11-03: 0 commits</title></circle>
+<circle cx="360.93" cy="297.93" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-07-22: 3 commits</title></circle>
+<circle cx="947.90" cy="291.46" r="2.70" fill="url(#cyan)" opacity="1"><title>2025-11-04: 2 commits</title></circle>
+<circle cx="428.41" cy="323.69" r="4.20" fill="url(#cyan)" opacity="1"><title>2026-07-21: 8 commits</title></circle>
+<circle cx="828.60" cy="333.39" r="4.59" fill="url(#cyan)" opacity="1"><title>2025-11-05: 11 commits</title></circle>
+<circle cx="229.93" cy="262.53" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-07-20: 0 commits</title></circle>
+<circle cx="930.00" cy="304.11" r="3.09" fill="url(#cyan)" opacity="1"><title>2025-11-06: 3 commits</title></circle>
+<circle cx="456.07" cy="337.12" r="4.70" fill="url(#cyan)" opacity="1"><title>2026-07-19: 12 commits</title></circle>
+<circle cx="826.03" cy="338.40" r="4.70" fill="url(#cyan)" opacity="1"><title>2025-11-07: 12 commits</title></circle>
+<circle cx="219.65" cy="268.68" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-07-18: 0 commits</title></circle>
+<circle cx="885.37" cy="323.33" r="3.86" fill="url(#cyan)" opacity="1"><title>2025-11-08: 6 commits</title></circle>
+<circle cx="363.37" cy="314.52" r="3.40" fill="url(#cyan)" opacity="1"><title>2026-07-17: 4 commits</title></circle>
+<circle cx="888.16" cy="325.16" r="3.86" fill="url(#cyan)" opacity="1"><title>2025-11-09: 6 commits</title></circle>
+<circle cx="274.62" cy="292.89" r="2.15" fill="url(#blue)" opacity="1"><title>2026-07-16: 1 commits</title></circle>
+<circle cx="1074.53" cy="277.97" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-11-10: 0 commits</title></circle>
+<circle cx="357.17" cy="318.66" r="3.40" fill="url(#cyan)" opacity="1"><title>2026-07-15: 4 commits</title></circle>
+<circle cx="1079.11" cy="281.20" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-11-11: 0 commits</title></circle>
+<circle cx="305.44" cy="308.28" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-07-14: 2 commits</title></circle>
+<circle cx="910.95" cy="327.09" r="3.65" fill="url(#cyan)" opacity="1"><title>2025-11-12: 5 commits</title></circle>
+<circle cx="396.61" cy="334.05" r="4.04" fill="url(#cyan)" opacity="1"><title>2026-07-13: 7 commits</title></circle>
+<circle cx="981.01" cy="313.12" r="2.70" fill="url(#cyan)" opacity="1"><title>2025-11-13: 2 commits</title></circle>
+<circle cx="191.84" cy="287.98" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-07-12: 0 commits</title></circle>
+<circle cx="1092.07" cy="291.10" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-11-14: 0 commits</title></circle>
+<circle cx="187.67" cy="291.32" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-07-11: 0 commits</title></circle>
+<circle cx="918.62" cy="333.20" r="3.65" fill="url(#cyan)" opacity="1"><title>2025-11-15: 5 commits</title></circle>
+<circle cx="437.87" cy="350.01" r="4.70" fill="url(#cyan)" opacity="1"><title>2026-07-10: 12 commits</title></circle>
+<circle cx="990.27" cy="320.79" r="2.70" fill="url(#cyan)" opacity="1"><title>2025-11-16: 2 commits</title></circle>
+<circle cx="179.71" cy="298.07" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-07-09: 0 commits</title></circle>
+<circle cx="964.17" cy="329.19" r="3.09" fill="url(#cyan)" opacity="1"><title>2025-11-17: 3 commits</title></circle>
+<circle cx="496.26" cy="365.35" r="5.54" fill="url(#gold)" opacity="1"><title>2026-07-08: 23 commits</title></circle>
+<circle cx="944.06" cy="335.93" r="3.40" fill="url(#cyan)" opacity="1"><title>2025-11-18: 4 commits</title></circle>
+<circle cx="313.13" cy="331.76" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-07-07: 3 commits</title></circle>
+<circle cx="827.36" cy="359.86" r="4.98" fill="url(#cyan)" opacity="1"><title>2025-11-19: 15 commits</title></circle>
+<circle cx="310.68" cy="334.18" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-07-06: 3 commits</title></circle>
+<circle cx="858.33" cy="356.11" r="4.59" fill="url(#cyan)" opacity="1"><title>2025-11-20: 11 commits</title></circle>
+<circle cx="278.69" cy="331.50" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-07-05: 2 commits</title></circle>
+<circle cx="1117.56" cy="315.21" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-11-21: 0 commits</title></circle>
+<circle cx="306.09" cy="339.09" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-07-04: 3 commits</title></circle>
+<circle cx="1120.64" cy="318.76" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-11-22: 0 commits</title></circle>
+<circle cx="327.25" cy="345.21" r="3.40" fill="url(#cyan)" opacity="1"><title>2026-07-03: 4 commits</title></circle>
+<circle cx="954.54" cy="347.38" r="3.40" fill="url(#cyan)" opacity="1"><title>2025-11-23: 4 commits</title></circle>
+<circle cx="374.72" cy="354.82" r="4.04" fill="url(#cyan)" opacity="1"><title>2026-07-02: 7 commits</title></circle>
+<circle cx="1053.15" cy="336.17" r="2.15" fill="url(#blue)" opacity="1"><title>2025-11-24: 1 commits</title></circle>
+<circle cx="153.45" cy="326.15" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-07-01: 0 commits</title></circle>
+<circle cx="1129.03" cy="329.53" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-11-25: 0 commits</title></circle>
+<circle cx="224.45" cy="339.43" r="2.15" fill="url(#blue)" opacity="1"><title>2026-06-30: 1 commits</title></circle>
+<circle cx="842.43" cy="368.94" r="4.90" fill="url(#cyan)" opacity="1"><title>2025-11-26: 14 commits</title></circle>
+<circle cx="265.63" cy="347.85" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-06-29: 2 commits</title></circle>
+<circle cx="1133.90" cy="336.80" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-11-27: 0 commits</title></circle>
+<circle cx="294.71" cy="354.19" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-06-28: 3 commits</title></circle>
+<circle cx="986.74" cy="356.59" r="3.09" fill="url(#cyan)" opacity="1"><title>2025-11-28: 3 commits</title></circle>
+<circle cx="218.45" cy="348.73" r="2.15" fill="url(#blue)" opacity="1"><title>2026-06-27: 1 commits</title></circle>
+<circle cx="1138.19" cy="344.15" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-11-29: 0 commits</title></circle>
+<circle cx="141.68" cy="344.39" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-06-26: 0 commits</title></circle>
+<circle cx="1140.11" cy="347.84" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-11-30: 0 commits</title></circle>
+<circle cx="139.77" cy="348.08" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-06-25: 0 commits</title></circle>
+<circle cx="1141.88" cy="351.55" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-12-01: 0 commits</title></circle>
+<circle cx="289.15" cy="364.50" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-06-24: 3 commits</title></circle>
+<circle cx="1023.37" cy="364.51" r="2.70" fill="url(#cyan)" opacity="1"><title>2025-12-02: 2 commits</title></circle>
+<circle cx="439.66" cy="378.69" r="4.98" fill="url(#cyan)" opacity="1"><title>2026-06-23: 15 commits</title></circle>
+<circle cx="1068.96" cy="364.27" r="2.15" fill="url(#blue)" opacity="1"><title>2025-12-03: 1 commits</title></circle>
+<circle cx="348.39" cy="373.93" r="3.86" fill="url(#cyan)" opacity="1"><title>2026-06-22: 6 commits</title></circle>
+<circle cx="993.86" cy="372.16" r="3.09" fill="url(#cyan)" opacity="1"><title>2025-12-04: 3 commits</title></circle>
+<circle cx="133.61" cy="362.99" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-06-21: 0 commits</title></circle>
+<circle cx="1147.49" cy="366.50" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-12-05: 0 commits</title></circle>
+<circle cx="309.86" cy="376.27" r="3.40" fill="url(#cyan)" opacity="1"><title>2026-06-20: 4 commits</title></circle>
+<circle cx="933.60" cy="380.29" r="3.86" fill="url(#cyan)" opacity="1"><title>2025-12-06: 6 commits</title></circle>
+<circle cx="207.99" cy="374.04" r="2.15" fill="url(#blue)" opacity="1"><title>2026-06-19: 1 commits</title></circle>
+<circle cx="971.33" cy="381.01" r="3.40" fill="url(#cyan)" opacity="1"><title>2025-12-07: 4 commits</title></circle>
+<circle cx="405.51" cy="384.92" r="4.59" fill="url(#cyan)" opacity="1"><title>2026-06-18: 11 commits</title></circle>
+<circle cx="1150.11" cy="377.80" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-12-08: 0 commits</title></circle>
+<circle cx="308.18" cy="383.62" r="3.40" fill="url(#cyan)" opacity="1"><title>2026-06-17: 4 commits</title></circle>
+<circle cx="996.92" cy="385.32" r="3.09" fill="url(#cyan)" opacity="1"><title>2025-12-09: 3 commits</title></circle>
+<circle cx="283.06" cy="385.49" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-06-16: 3 commits</title></circle>
+<circle cx="997.22" cy="387.96" r="3.09" fill="url(#cyan)" opacity="1"><title>2025-12-10: 3 commits</title></circle>
+<circle cx="128.87" cy="385.61" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-06-15: 0 commits</title></circle>
+<circle cx="952.37" cy="391.03" r="3.65" fill="url(#cyan)" opacity="1"><title>2025-12-11: 5 commits</title></circle>
+<circle cx="128.61" cy="389.39" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-06-14: 0 commits</title></circle>
+<circle cx="952.44" cy="393.35" r="3.65" fill="url(#cyan)" opacity="1"><title>2025-12-12: 5 commits</title></circle>
+<circle cx="128.50" cy="393.18" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-06-13: 0 commits</title></circle>
+<circle cx="640" cy="394" r="28" fill="url(#sun)" stroke="#ffe4a2"/>
+<circle cx="1151.46" cy="396.72" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-12-13: 0 commits</title></circle>
+<circle cx="128.55" cy="396.96" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-06-12: 0 commits</title></circle>
+<circle cx="1029.28" cy="398.95" r="2.70" fill="url(#cyan)" opacity="1"><title>2025-12-14: 2 commits</title></circle>
+<circle cx="128.74" cy="400.75" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-06-11: 0 commits</title></circle>
+<circle cx="907.11" cy="399.38" r="4.20" fill="url(#cyan)" opacity="1"><title>2025-12-15: 8 commits</title></circle>
+<circle cx="282.92" cy="401.36" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-06-10: 3 commits</title></circle>
+<circle cx="1028.65" cy="404.71" r="2.70" fill="url(#cyan)" opacity="1"><title>2025-12-16: 2 commits</title></circle>
+<circle cx="129.58" cy="408.31" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-06-09: 0 commits</title></circle>
+<circle cx="1149.81" cy="411.84" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-12-17: 0 commits</title></circle>
+<circle cx="206.98" cy="409.36" r="2.15" fill="url(#blue)" opacity="1"><title>2026-06-08: 1 commits</title></circle>
+<circle cx="995.76" cy="409.11" r="3.09" fill="url(#cyan)" opacity="1"><title>2025-12-18: 3 commits</title></circle>
+<circle cx="284.28" cy="409.28" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-06-07: 3 commits</title></circle>
+<circle cx="1148.08" cy="419.38" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-12-19: 0 commits</title></circle>
+<circle cx="208.46" cy="415.76" r="2.15" fill="url(#blue)" opacity="1"><title>2026-06-06: 1 commits</title></circle>
+<circle cx="1026.02" cy="416.18" r="2.70" fill="url(#cyan)" opacity="1"><title>2025-12-20: 2 commits</title></circle>
+<circle cx="438.34" cy="405.69" r="4.98" fill="url(#cyan)" opacity="1"><title>2026-06-05: 15 commits</title></circle>
+<circle cx="1145.75" cy="426.88" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-12-21: 0 commits</title></circle>
+<circle cx="407.24" cy="409.25" r="4.59" fill="url(#cyan)" opacity="1"><title>2026-06-04: 11 commits</title></circle>
+<circle cx="992.50" cy="419.59" r="3.09" fill="url(#cyan)" opacity="1"><title>2025-12-22: 3 commits</title></circle>
+<circle cx="135.74" cy="430.86" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-06-03: 0 commits</title></circle>
+<circle cx="1142.82" cy="434.35" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-12-23: 0 commits</title></circle>
+<circle cx="137.29" cy="434.59" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-06-02: 0 commits</title></circle>
+<circle cx="820.65" cy="409.88" r="5.22" fill="url(#cyan)" opacity="1"><title>2025-12-24: 18 commits</title></circle>
+<circle cx="214.41" cy="431.64" r="2.15" fill="url(#blue)" opacity="1"><title>2026-06-01: 1 commits</title></circle>
+<circle cx="853.11" cy="414.39" r="4.80" fill="url(#cyan)" opacity="1"><title>2025-12-25: 13 commits</title></circle>
+<circle cx="315.32" cy="425.23" r="3.40" fill="url(#cyan)" opacity="1"><title>2026-05-31: 4 commits</title></circle>
+<circle cx="912.70" cy="422.22" r="4.04" fill="url(#cyan)" opacity="1"><title>2025-12-26: 7 commits</title></circle>
+<circle cx="448.76" cy="413.88" r="5.07" fill="url(#cyan)" opacity="1"><title>2026-05-30: 16 commits</title></circle>
+<circle cx="1135.17" cy="449.13" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-12-27: 0 commits</title></circle>
+<circle cx="318.01" cy="430.01" r="3.40" fill="url(#cyan)" opacity="1"><title>2026-05-29: 4 commits</title></circle>
+<circle cx="1132.89" cy="452.79" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-12-28: 0 commits</title></circle>
+<circle cx="147.26" cy="453.02" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-05-28: 0 commits</title></circle>
+<circle cx="982.79" cy="437.63" r="3.09" fill="url(#cyan)" opacity="1"><title>2025-12-29: 3 commits</title></circle>
+<circle cx="149.70" cy="456.66" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-05-27: 0 commits</title></circle>
+<circle cx="1127.89" cy="460.05" r="1.20" fill="url(#blue)" opacity="0.35"><title>2025-12-30: 0 commits</title></circle>
+<circle cx="152.28" cy="460.28" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-05-26: 0 commits</title></circle>
+<circle cx="804.35" cy="417.59" r="5.36" fill="url(#cyan)" opacity="1"><title>2025-12-31: 20 commits</title></circle>
+<circle cx="155.00" cy="463.88" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-05-25: 0 commits</title></circle>
+<circle cx="1007.23" cy="449.76" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-01-01: 2 commits</title></circle>
+<circle cx="230.46" cy="456.40" r="2.15" fill="url(#blue)" opacity="1"><title>2026-05-24: 1 commits</title></circle>
+<circle cx="975.00" cy="447.67" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-01-02: 3 commits</title></circle>
+<circle cx="160.89" cy="471.02" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-05-23: 0 commits</title></circle>
+<circle cx="1116.17" cy="474.32" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-01-03: 0 commits</title></circle>
+<circle cx="164.04" cy="474.55" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-05-22: 0 commits</title></circle>
+<circle cx="1112.88" cy="477.84" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-01-04: 0 commits</title></circle>
+<circle cx="351.28" cy="445.35" r="3.65" fill="url(#cyan)" opacity="1"><title>2026-05-21: 5 commits</title></circle>
+<circle cx="1038.78" cy="468.18" r="2.15" fill="url(#blue)" opacity="1"><title>2026-01-05: 1 commits</title></circle>
+<circle cx="465.34" cy="426.59" r="5.14" fill="url(#cyan)" opacity="1"><title>2026-05-20: 17 commits</title></circle>
+<circle cx="994.73" cy="463.12" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-01-06: 2 commits</title></circle>
+<circle cx="174.34" cy="485.01" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-05-19: 0 commits</title></circle>
+<circle cx="791.90" cy="424.97" r="5.42" fill="url(#cyan)" opacity="1"><title>2026-01-07: 21 commits</title></circle>
+<circle cx="317.14" cy="460.01" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-05-18: 3 commits</title></circle>
+<circle cx="960.34" cy="462.23" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-01-08: 3 commits</title></circle>
+<circle cx="375.51" cy="450.49" r="3.86" fill="url(#cyan)" opacity="1"><title>2026-05-17: 6 commits</title></circle>
+<circle cx="841.25" cy="438.74" r="4.70" fill="url(#cyan)" opacity="1"><title>2026-01-09: 12 commits</title></circle>
+<circle cx="322.62" cy="464.75" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-05-16: 3 commits</title></circle>
+<circle cx="1090.26" cy="498.36" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-01-10: 0 commits</title></circle>
+<circle cx="365.13" cy="457.88" r="3.65" fill="url(#cyan)" opacity="1"><title>2026-05-15: 5 commits</title></circle>
+<circle cx="979.59" cy="475.98" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-01-11: 2 commits</title></circle>
+<circle cx="194.26" cy="501.89" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-05-14: 0 commits</title></circle>
+<circle cx="1081.64" cy="504.96" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-01-12: 0 commits</title></circle>
+<circle cx="198.65" cy="505.17" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-05-13: 0 commits</title></circle>
+<circle cx="1077.13" cy="508.21" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-01-13: 0 commits</title></circle>
+<circle cx="421.63" cy="451.20" r="4.34" fill="url(#cyan)" opacity="1"><title>2026-05-12: 9 commits</title></circle>
+<circle cx="1007.39" cy="493.75" r="2.15" fill="url(#blue)" opacity="1"><title>2026-01-14: 1 commits</title></circle>
+<circle cx="497.96" cy="432.66" r="5.42" fill="url(#cyan)" opacity="1"><title>2026-05-11: 21 commits</title></circle>
+<circle cx="1067.73" cy="514.61" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-01-15: 0 commits</title></circle>
+<circle cx="212.58" cy="514.82" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-05-10: 0 commits</title></circle>
+<circle cx="961.95" cy="488.23" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-01-16: 2 commits</title></circle>
+<circle cx="318.30" cy="488.38" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-05-09: 2 commits</title></circle>
+<circle cx="958.13" cy="490.60" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-01-17: 2 commits</title></circle>
+<circle cx="222.51" cy="521.07" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-05-08: 0 commits</title></circle>
+<circle cx="1052.68" cy="523.95" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-01-18: 0 commits</title></circle>
+<circle cx="227.65" cy="524.14" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-05-07: 0 commits</title></circle>
+<circle cx="1047.42" cy="526.98" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-01-19: 0 commits</title></circle>
+<circle cx="232.93" cy="527.18" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-05-06: 0 commits</title></circle>
+<circle cx="981.51" cy="509.51" r="2.15" fill="url(#blue)" opacity="1"><title>2026-01-20: 1 commits</title></circle>
+<circle cx="238.32" cy="530.17" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-05-05: 0 commits</title></circle>
+<circle cx="976.84" cy="512.02" r="2.15" fill="url(#blue)" opacity="1"><title>2026-01-21: 1 commits</title></circle>
+<circle cx="303.47" cy="512.18" r="2.15" fill="url(#blue)" opacity="1"><title>2026-05-04: 1 commits</title></circle>
+<circle cx="913.21" cy="493.14" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-01-22: 3 commits</title></circle>
+<circle cx="414.51" cy="476.01" r="3.86" fill="url(#cyan)" opacity="1"><title>2026-05-03: 6 commits</title></circle>
+<circle cx="933.27" cy="504.19" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-01-23: 2 commits</title></circle>
+<circle cx="501.28" cy="446.24" r="5.22" fill="url(#cyan)" opacity="1"><title>2026-05-02: 18 commits</title></circle>
+<circle cx="1019.33" cy="541.55" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-01-24: 0 commits</title></circle>
+<circle cx="318.11" cy="519.49" r="2.15" fill="url(#blue)" opacity="1"><title>2026-05-01: 1 commits</title></circle>
+<circle cx="1013.36" cy="544.34" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-01-25: 0 commits</title></circle>
+<circle cx="356.02" cy="508.60" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-04-30: 2 commits</title></circle>
+<circle cx="776.72" cy="450.98" r="5.14" fill="url(#cyan)" opacity="1"><title>2026-01-26: 17 commits</title></circle>
+<circle cx="448.20" cy="474.12" r="4.20" fill="url(#cyan)" opacity="1"><title>2026-04-29: 8 commits</title></circle>
+<circle cx="946.74" cy="526.32" r="2.15" fill="url(#blue)" opacity="1"><title>2026-01-27: 1 commits</title></circle>
+<circle cx="387.90" cy="502.99" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-04-28: 3 commits</title></circle>
+<circle cx="910.16" cy="514.62" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-01-28: 2 commits</title></circle>
+<circle cx="285.59" cy="552.59" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-04-27: 0 commits</title></circle>
+<circle cx="905.29" cy="516.60" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-01-29: 2 commits</title></circle>
+<circle cx="291.99" cy="555.19" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-04-26: 0 commits</title></circle>
+<circle cx="981.93" cy="557.58" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-01-30: 0 commits</title></circle>
+<circle cx="298.50" cy="557.74" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-04-25: 0 commits</title></circle>
+<circle cx="975.33" cy="560.09" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-01-31: 0 commits</title></circle>
+<circle cx="385.01" cy="520.58" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-04-24: 2 commits</title></circle>
+<circle cx="968.63" cy="562.54" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-02-01: 0 commits</title></circle>
+<circle cx="426.53" cy="503.73" r="3.40" fill="url(#cyan)" opacity="1"><title>2026-04-23: 4 commits</title></circle>
+<circle cx="885.04" cy="524.16" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-02-02: 2 commits</title></circle>
+<circle cx="366.99" cy="539.35" r="2.15" fill="url(#blue)" opacity="1"><title>2026-04-22: 1 commits</title></circle>
+<circle cx="753.53" cy="456.48" r="5.22" fill="url(#cyan)" opacity="1"><title>2026-02-03: 18 commits</title></circle>
+<circle cx="570.28" cy="432.45" r="6.09" fill="url(#gold)" opacity="1"><title>2026-04-21: 35 commits</title></circle>
+<circle cx="947.96" cy="569.61" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-02-04: 0 commits</title></circle>
+<circle cx="492.65" cy="478.22" r="4.47" fill="url(#cyan)" opacity="1"><title>2026-04-20: 10 commits</title></circle>
+<circle cx="895.59" cy="545.09" r="2.15" fill="url(#blue)" opacity="1"><title>2026-02-05: 1 commits</title></circle>
+<circle cx="339.58" cy="572.01" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-04-19: 0 commits</title></circle>
+<circle cx="933.72" cy="574.07" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-02-06: 0 commits</title></circle>
+<circle cx="390.90" cy="547.08" r="2.15" fill="url(#blue)" opacity="1"><title>2026-04-18: 1 commits</title></circle>
+<circle cx="926.47" cy="576.22" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-02-07: 0 commits</title></circle>
+<circle cx="483.17" cy="493.99" r="4.04" fill="url(#cyan)" opacity="1"><title>2026-04-17: 7 commits</title></circle>
+<circle cx="877.11" cy="550.56" r="2.15" fill="url(#blue)" opacity="1"><title>2026-02-08: 1 commits</title></circle>
+<circle cx="458.75" cy="513.97" r="3.40" fill="url(#cyan)" opacity="1"><title>2026-04-16: 4 commits</title></circle>
+<circle cx="911.71" cy="580.35" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-02-09: 0 commits</title></circle>
+<circle cx="510.03" cy="483.36" r="4.47" fill="url(#cyan)" opacity="1"><title>2026-04-15: 10 commits</title></circle>
+<circle cx="824.66" cy="525.63" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-02-10: 3 commits</title></circle>
+<circle cx="455.68" cy="525.71" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-04-14: 3 commits</title></circle>
+<circle cx="768.29" cy="489.11" r="4.34" fill="url(#cyan)" opacity="1"><title>2026-02-11: 9 commits</title></circle>
+<circle cx="460.98" cy="527.06" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-04-13: 3 commits</title></circle>
+<circle cx="888.98" cy="586.13" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-02-12: 0 commits</title></circle>
+<circle cx="428.93" cy="557.31" r="2.15" fill="url(#blue)" opacity="1"><title>2026-04-12: 1 commits</title></circle>
+<circle cx="729.80" cy="466.19" r="5.14" fill="url(#cyan)" opacity="1"><title>2026-02-13: 17 commits</title></circle>
+<circle cx="399.25" cy="588.06" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-04-11: 0 commits</title></circle>
+<circle cx="803.16" cy="530.78" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-02-14: 3 commits</title></circle>
+<circle cx="547.33" cy="471.90" r="4.98" fill="url(#cyan)" opacity="1"><title>2026-04-10: 15 commits</title></circle>
+<circle cx="865.58" cy="591.40" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-02-15: 0 commits</title></circle>
+<circle cx="414.93" cy="591.51" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-04-09: 0 commits</title></circle>
+<circle cx="857.65" cy="593.04" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-02-16: 0 commits</title></circle>
+<circle cx="422.87" cy="593.14" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-04-08: 0 commits</title></circle>
+<circle cx="786.52" cy="534.22" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-02-17: 3 commits</title></circle>
+<circle cx="430.87" cy="594.72" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-04-07: 0 commits</title></circle>
+<circle cx="756.39" cy="510.71" r="3.86" fill="url(#cyan)" opacity="1"><title>2026-02-18: 6 commits</title></circle>
+<circle cx="499.48" cy="535.35" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-04-06: 3 commits</title></circle>
+<circle cx="687.84" cy="444.35" r="5.93" fill="url(#gold)" opacity="1"><title>2026-02-19: 31 commits</title></circle>
+<circle cx="543.55" cy="495.83" r="4.34" fill="url(#cyan)" opacity="1"><title>2026-04-05: 9 commits</title></circle>
+<circle cx="825.28" cy="599.01" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-02-20: 0 commits</title></circle>
+<circle cx="538.69" cy="506.47" r="4.04" fill="url(#cyan)" opacity="1"><title>2026-04-04: 7 commits</title></circle>
+<circle cx="817.05" cy="600.35" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-02-21: 0 commits</title></circle>
+<circle cx="463.49" cy="600.43" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-04-03: 0 commits</title></circle>
+<circle cx="808.76" cy="601.63" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-02-22: 0 commits</title></circle>
+<circle cx="511.92" cy="552.15" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-04-02: 2 commits</title></circle>
+<circle cx="696.04" cy="466.96" r="5.29" fill="url(#cyan)" opacity="1"><title>2026-02-23: 19 commits</title></circle>
+<circle cx="547.69" cy="514.62" r="3.86" fill="url(#cyan)" opacity="1"><title>2026-04-01: 6 commits</title></circle>
+<circle cx="746.26" cy="540.77" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-02-24: 3 commits</title></circle>
+<circle cx="534.12" cy="540.82" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-03-31: 3 commits</title></circle>
+<circle cx="711.79" cy="499.53" r="4.34" fill="url(#cyan)" opacity="1"><title>2026-02-25: 9 commits</title></circle>
+<circle cx="496.94" cy="605.17" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-03-30: 0 commits</title></circle>
+<circle cx="775.14" cy="606.13" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-02-26: 0 commits</title></circle>
+<circle cx="578.05" cy="491.67" r="4.59" fill="url(#cyan)" opacity="1"><title>2026-03-29: 11 commits</title></circle>
+<circle cx="706.20" cy="505.40" r="4.20" fill="url(#cyan)" opacity="1"><title>2026-02-27: 8 commits</title></circle>
+<circle cx="513.92" cy="607.16" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-03-28: 0 commits</title></circle>
+<circle cx="758.08" cy="608.00" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-02-28: 0 commits</title></circle>
+<circle cx="522.48" cy="608.06" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-03-27: 0 commits</title></circle>
+<circle cx="711.22" cy="533.75" r="3.40" fill="url(#cyan)" opacity="1"><title>2026-03-01: 4 commits</title></circle>
+<circle cx="531.06" cy="608.90" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-03-26: 0 commits</title></circle>
+<circle cx="740.88" cy="609.63" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-03-02: 0 commits</title></circle>
+<circle cx="554.78" cy="577.20" r="2.15" fill="url(#blue)" opacity="1"><title>2026-03-25: 1 commits</title></circle>
+<circle cx="682.45" cy="493.58" r="4.59" fill="url(#cyan)" opacity="1"><title>2026-03-03: 11 commits</title></circle>
+<circle cx="562.13" cy="577.81" r="2.15" fill="url(#blue)" opacity="1"><title>2026-03-24: 1 commits</title></circle>
+<circle cx="657.07" cy="438.33" r="6.20" fill="url(#gold)" opacity="1"><title>2026-03-04: 38 commits</title></circle>
+<circle cx="557.01" cy="611.03" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-03-23: 0 commits</title></circle>
+<circle cx="663.19" cy="461.39" r="5.54" fill="url(#gold)" opacity="1"><title>2026-03-05: 23 commits</title></circle>
+<circle cx="588.08" cy="546.09" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-03-22: 3 commits</title></circle>
+<circle cx="683.02" cy="535.86" r="3.40" fill="url(#cyan)" opacity="1"><title>2026-03-06: 4 commits</title></circle>
+<circle cx="604.04" cy="513.61" r="4.04" fill="url(#cyan)" opacity="1"><title>2026-03-21: 7 commits</title></circle>
+<circle cx="688.76" cy="579.65" r="2.15" fill="url(#blue)" opacity="1"><title>2026-03-07: 1 commits</title></circle>
+<circle cx="583.17" cy="612.58" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-03-20: 0 commits</title></circle>
+<circle cx="661.54" cy="490.97" r="4.70" fill="url(#cyan)" opacity="1"><title>2026-03-08: 12 commits</title></circle>
+<circle cx="617.87" cy="494.79" r="4.59" fill="url(#cyan)" opacity="1"><title>2026-03-19: 11 commits</title></circle>
+<circle cx="654.37" cy="473.05" r="5.22" fill="url(#cyan)" opacity="1"><title>2026-03-09: 18 commits</title></circle>
+<circle cx="624.37" cy="481.24" r="4.98" fill="url(#cyan)" opacity="1"><title>2026-03-18: 15 commits</title></circle>
+<circle cx="671.08" cy="613.54" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-03-10: 0 commits</title></circle>
+<circle cx="618.67" cy="547.45" r="3.09" fill="url(#cyan)" opacity="1"><title>2026-03-17: 3 commits</title></circle>
+<circle cx="662.29" cy="613.74" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-03-11: 0 commits</title></circle>
+<circle cx="627.46" cy="520.87" r="3.86" fill="url(#cyan)" opacity="1"><title>2026-03-16: 6 commits</title></circle>
+<circle cx="651.46" cy="580.77" r="2.15" fill="url(#blue)" opacity="1"><title>2026-03-12: 1 commits</title></circle>
+<circle cx="631.60" cy="537.02" r="3.40" fill="url(#cyan)" opacity="1"><title>2026-03-15: 4 commits</title></circle>
+<circle cx="644.69" cy="613.94" r="1.20" fill="url(#blue)" opacity="0.35"><title>2026-03-13: 0 commits</title></circle>
+<circle cx="636.87" cy="561.46" r="2.70" fill="url(#cyan)" opacity="1"><title>2026-03-14: 2 commits</title></circle>
+<g font-family="Arial, sans-serif">
+<text x="44" y="53" fill="#8fe7f1" font-size="12" letter-spacing="4">C O R N O S O F T / ORBITAL ACTIVITY</text>
+<text x="42" y="95" fill="#edfaff" font-size="31" letter-spacing="5">COMMIT COSMOS</text>
+<text x="44" y="124" fill="#7296ac" font-size="15">@whatfor2000 · 2025-10-21 — 2026-10-20</text>
+<text x="1236" y="54" text-anchor="end" fill="#8fe7f1" font-size="12" letter-spacing="2">DEMO DATA</text>
+<text x="1236" y="92" text-anchor="end" fill="#edfaff" font-size="24">1,615 commits</text>
+<text x="1236" y="120" text-anchor="end" fill="#7296ac" font-size="14">228 active days · peak 38</text>
+<path d="M44 672H1236" stroke="#183242"/>
+<text x="44" y="708" fill="#7296ac" font-size="13">ONE PLANET = ONE DAY</text>
+<text x="1236" y="708" text-anchor="end" fill="#9beef1" font-size="13">MORE ACTIVITY → CLOSER TO THE SUN</text>
+<text x="44" y="737" fill="#476477" font-size="11">Illustrative sample; run the workflow to load your real activity.</text>
+</g></svg>
